@@ -1,0 +1,6 @@
+{
+  "name": "Diagnóstico de Gestión Documental - Valle del Cauca",
+  "description": "Formulario de diagnóstico sobre el cumplimiento de la Ley 594 de 2000 (Archivo General de la Nación) en entidades del Valle del Cauca, con envío de datos a Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
